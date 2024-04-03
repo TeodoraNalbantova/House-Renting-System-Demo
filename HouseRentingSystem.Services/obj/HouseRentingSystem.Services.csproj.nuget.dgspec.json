@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\BACK-END\\Back-End Test Automation - март 2024\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {}
+    "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {}
   },
   "projects": {
-    "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\BACK-END\\Back-End Test Automation - март 2024\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+    "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\BACK-END\\Back-End Test Automation - март 2024\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+        "projectUniqueName": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
         "projectName": "HouseRentingSystem.Services",
-        "projectPath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\BACK-END\\Back-End Test Automation - март 2024\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+        "projectPath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\BACK-END\\Back-End Test Automation - март 2024\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\obj\\",
+        "outputPath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\12-Continuous-Integration-II-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
